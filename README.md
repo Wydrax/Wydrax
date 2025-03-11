@@ -4,12 +4,6 @@
 </p>
 
 
-
-
-
-
-
-
 ###
 
 <h2 align="left">À propos de moi</h2>
@@ -36,3 +30,9 @@
 
 <h3 align="left">Soutenir mon travail :</h3>
 <p><a href="https://www.buymeacoffee.com/Wydrax"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Wydrax" /></a></p><br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wydrax/wydrax/output/github-snake.svg" />
+</picture>
